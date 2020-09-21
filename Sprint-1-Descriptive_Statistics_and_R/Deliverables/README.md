@@ -31,6 +31,7 @@ Calculate, **by hand**, the five number summary and variance of the following da
 Disclaimer: I may also ask you to do something like this on the quiz.
 
 **Work:**
+
 *Five Number Summary:*
 Min: 2.5
 Max: 9.5
