@@ -33,11 +33,11 @@ Disclaimer: I may also ask you to do something like this on the quiz.
 **Work:**
 
 *Five Number Summary:*
-Min: 2.5
-Max: 9.5
-1st Quartile: 4.4
-3rd Quartile: 8.5
-Median: 6.7
+Min: 2.5;
+Max: 9.5;
+1st Quartile: 4.4;
+3rd Quartile: 8.5;
+Median: 6.7;
 
 -> Five Number Summary: 2.5, 4.4, 6.7, 8.5, 9.5
 
