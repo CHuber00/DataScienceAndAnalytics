@@ -45,7 +45,7 @@ Mean: 6.6
 Subtracting the mean and squaring the result for each data point, then calculating the mean of those numbers:
 9.61, 6.3, 8.4, 2.9, 2.6, 4.4, 4.8, 0.01, 16.8, 4.8, 0.01
 
-Variance: 5.5
+-> Variance: 5.5
 
 
 
